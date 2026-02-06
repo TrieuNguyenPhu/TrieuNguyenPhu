@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3c2t4aWhwc3JnZ2JoODl0eWZkOHM4aW9peHA2Z2c5aXhzcXh6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kxdbUPCziWKmCyDASq/giphy.gif" height="150" />
 
-<h3 align="left">Hi 👋! My name is Trieu</h3>
+<h3 align="left">Hi 👋! My name is Nguyễn Phú Triệu</h3>
 
 ## 💫 About Me:
 
@@ -18,10 +18,10 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" height="195" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" width="450" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="355" height="195" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TrieuNguyenPhu&theme=neon&hide_border=false" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=TrieuNguyenPhu&theme=neon&hide_border=false" width="495" height="195" />
 </p>
