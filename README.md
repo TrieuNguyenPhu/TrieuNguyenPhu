@@ -9,7 +9,7 @@
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/trieu.nguyenphu.86_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/trieunguyenphu86) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyentrieu080604@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/trieu.nguyenphu.86_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/trieunguyenphu86) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyentrieu080604@gmail.com)
 
 ## 💻 Tech Stack:
 
@@ -18,8 +18,8 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" width="450" height="195" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="355" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" width="450" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrieuNguyenPhu&theme=neon&hide_border=false&layout=compact" width="355" height="195" />
 </p>
 
 <p align="center">
