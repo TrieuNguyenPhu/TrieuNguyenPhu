@@ -14,14 +14,3 @@
 ## 💻 Tech Stack:
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-## 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" width="450" height="195" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TrieuNguyenPhu&theme=neon&hide_border=false&layout=compact" width="355" height="195" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats-six.vercel.app/?user=TrieuNguyenPhu&background=000000&border=ffffff&ring=00EAD3&fire=00EAD3&currStreakNum=FF449F&sideNums=00EAD3&currStreakLabel=FF449F&sideLabels=00EAD3&dates=FFF5B7&hide_border=false" width="495" height="195" />
-</p>
