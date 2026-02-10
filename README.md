@@ -18,8 +18,8 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" width="450" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrieuNguyenPhu&theme=neon&hide_border=false&layout=compact" width="355" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" width="450" height="195" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TrieuNguyenPhu&theme=neon&hide_border=false&layout=compact" width="355" height="195" />
 </p>
 
 <p align="center">
