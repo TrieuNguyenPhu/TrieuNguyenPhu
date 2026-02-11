@@ -5,11 +5,10 @@
 ## 💫 About Me:
 
 - 🎓 I am a Software Engineering student at **University of Information Technology – UIT**
-- ⚡ Fun fact: I think I'm funny
 
 ## 🌐 Socials:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/trieu.nguyenphu.86_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trieunguyenphu86/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nguyentrieu080604@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/trieu.nguyenphu.86_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trieunguyenphu86/)
 
 ## 💻 Tech Stack:
 
@@ -18,5 +17,38 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=TrieuNguyenPhu&theme=neon&hide_border=false&include_all_commits=true&count_private=true" width="450" height="195" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=TrieuNguyenPhu&theme=neon&hide_border=false&layout=compact" width="355" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-six.vercel.app/?user=TrieuNguyenPhu&background=000000&border=ffffff&ring=00EAD3&fire=00EAD3&currStreakNum=FF449F&sideNums=00EAD3&currStreakLabel=FF449F&sideLabels=00EAD3&dates=FFF5B7&hide_border=false" width="495" height="195" />
+</p>
+
+![snake gif](https://github.com/TrieuNguyenPhu/TrieuNguyenPhu/blob/output/github-contribution-grid-snake-dark-custom.svg?raw=true)
+
+## Stuffs :v  
+
+<a href = "https://github.com/TrieuNguyenPhu">
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/ciber-coding.gif?raw=true" width="100%"/>
+</a>
+
+
+<a href = "https://github.com/TrieuNguyenPhu">
+  <img src = "https://github.com/walidbosso/Python-GUI/blob/main/border.gif?raw=true" width="100%"/>
+</a>
+
+<p align="center"><img src="/img/demo.gif?raw=true"/></p>
+
+## Fun facts 
+☕ I like playing Yu-Gi-Oh! - My favourite deck is Orcust
+
+<p align="center">
+<img width="20%" src="https://static.wikia.nocookie.net/yugioh/images/e/e0/GalateaItheOrcustAutomaton-QCTB-JP-SR.png" />
+
+<img width="20%" src="https://images.ygoprodeck.com/images/cards/65741786.jpg" />
+
+<img width="20%" src="https://images.ygoprodeck.com/images/cards/59400890.jpg" />
+
+<img width="20%" src="https://images.ygoprodeck.com/images/cards/73082255.jpg" />
 </p>
