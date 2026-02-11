@@ -5,6 +5,8 @@
 ## 💫 About Me:
 
 - 🎓 I am a Software Engineering student at **University of Information Technology – UIT**
+- 🍃 Coding to the rhythm of lo-fi beats.
+- ✉️ Email: nguyentrieu080604@gmail.com
 
 ## 🌐 Socials:
 
