@@ -1,7 +1,9 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3c2t4aWhwc3JnZ2JoODl0eWZkOHM4aW9peHA2Z2c5aXhzcXh6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kxdbUPCziWKmCyDASq/giphy.gif" height="150" />
 
-<h2 align="left">Hi 👋! My name is Trieu </h2>
+<h3 align="left">Hi 👋! My name is Trieu</h3>
+
 # 💫 About Me:
+
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
