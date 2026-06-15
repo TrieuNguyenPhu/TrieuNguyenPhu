@@ -23,5 +23,5 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TrieuNguyenPhu&theme=neon&hide_border=false" width="495" height="195" />
+  <img src="https://streak-stats.demolab.com/?user=TrieuNguyenPhu&theme=neon&hide_border=false&cache_bust=1" width="495" height="195" />
 </p>
