@@ -25,8 +25,6 @@
   <img src="https://github-readme-streak-stats-six.vercel.app/?user=TrieuNguyenPhu&background=000000&border=ffffff&ring=00EAD3&fire=00EAD3&currStreakNum=FF449F&sideNums=00EAD3&currStreakLabel=FF449F&sideLabels=00EAD3&dates=FFF5B7&hide_border=false" width="495" height="195" />
 </p>
 
-![snake gif](https://raw.githubusercontent.com/TrieuNguyenPhu/TrieuNguyenPhu/output/github-contribution-grid-snake-dark-custom.svg)
-
 ## Stuffs :v  
 
 <a href = "https://github.com/TrieuNguyenPhu">
