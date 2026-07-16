@@ -25,7 +25,7 @@
   <img src="https://github-readme-streak-stats-six.vercel.app/?user=TrieuNguyenPhu&background=000000&border=ffffff&ring=00EAD3&fire=00EAD3&currStreakNum=FF449F&sideNums=00EAD3&currStreakLabel=FF449F&sideLabels=00EAD3&dates=FFF5B7&hide_border=false" width="495" height="195" />
 </p>
 
-![snake gif](https://github.com/TrieuNguyenPhu/TrieuNguyenPhu/blob/output/github-contribution-grid-snake-dark-custom.svg?raw=true)
+![snake gif](https://raw.githubusercontent.com/TrieuNguyenPhu/TrieuNguyenPhu/output/github-contribution-grid-snake-dark-custom.svg)
 
 ## Stuffs :v  
 
@@ -44,7 +44,7 @@
 ☕ I like playing Yu-Gi-Oh! - My favourite deck is Orcust
 
 <p align="center">
-<img width="20%" src="https://static.wikia.nocookie.net/yugioh/images/e/e0/GalateaItheOrcustAutomaton-QCTB-JP-SR.png" />
+<img width="20%" src="https://images.ygoprodeck.com/images/cards/48835607.jpg" />
 
 <img width="20%" src="https://images.ygoprodeck.com/images/cards/65741786.jpg" />
 
