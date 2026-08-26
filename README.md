@@ -1,6 +1,6 @@
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3c2t4aWhwc3JnZ2JoODl0eWZkOHM4aW9peHA2Z2c5aXhzcXh6NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kxdbUPCziWKmCyDASq/giphy.gif" height="150" />
 
-<h3 align="left">Hi 👋! My name is Nguyễn Phú Triệu</h3>
+<h3 align="left">Trieu Nguyen Phu</h3>
 
 ## 💫 About Me:
 
