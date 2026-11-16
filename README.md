@@ -2,7 +2,7 @@
 
 <h3 align="left">Trieu Nguyen Phu</h3>
 
-## 💫 About Me:
+💫 About Me:
 
 - 🎓 I am a Software Engineering student at **University of Information Technology – UIT**
 - ✉️ Email: nguyentrieu080604@gmail.com
